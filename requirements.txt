@@ -1,0 +1,2 @@
+discord.py==1.5.1
+text2emotion==0.0.5
